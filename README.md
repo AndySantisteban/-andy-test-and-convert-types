@@ -1,4 +1,4 @@
-# @andy/test-and-convert-types
+# test-and-convert-types
 
 Library that has two main functions:
 
@@ -8,7 +8,7 @@ Library that has two main functions:
 ## Installation
 
 ```bash
-npm i @andy/test-and-convert-types
+npm i test-and-convert-types
 ```
 
 ## Version
