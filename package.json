@@ -1,6 +1,6 @@
 {
   "name": "test-and-convert-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test time",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,8 @@
   },
   "author": "Andy Santisteban",
   "email": "andyjosue160720@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.9"
+  }
 }
