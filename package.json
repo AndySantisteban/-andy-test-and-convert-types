@@ -15,6 +15,6 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com/@andyjosue160720"
+    "registry": "https://npm.pkg.github.com/@AndySantisteban"
   }
 }
