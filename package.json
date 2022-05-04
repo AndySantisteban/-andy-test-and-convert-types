@@ -1,6 +1,6 @@
 {
   "name": "test-and-convert-types",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test time",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.11.9"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/@andyjosue160720"
   }
 }
